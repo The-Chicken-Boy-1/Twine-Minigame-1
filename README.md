@@ -1,3 +1,5 @@
 # Twine-Minigame-1
 ## Devlog
-Remove this line and write your Devlog here.
+I found these tutorials for most of the part to be quiet simple and easy.  I wouldn't say that I'm already a professional with using my computer but I'm comfortable with where to find stuff and search stuff on my computer. This will affect my experience and going through these tutorials because having either already having a background or being a quick learner, you'll able to find and understand stuff that you'll learn with these tutorials and getting set up with doing classwork.
+
+Since I had a pretty easy time with the assignments this week, I feel like people that necessarily don't have a good experiences or may not have the resources with their computer may find assignments or work like this to be difficult. The resources I believe someone needs to have with less experience with computers are at least somewhat knowing how to use electronics. Something simple being a school Chromebook or the library computers. Physical resource though needs to be a computer/device that can run Windows 10 or 11 with stable storage and CPU. I believe this may relate to a somebody's struggle with trying to run or install video games because they parts or the certain computer cannot handle the certain file or game.
